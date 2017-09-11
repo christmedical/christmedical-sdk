@@ -1,0 +1,26 @@
+{
+  "name": "christmedical-sdk",
+  "version": "1.0.0",
+  "description": "ChristMedical: Client SDK",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo build",
+    "deploy": "echo deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christmedical/christmedical-sdk.git"
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christmedical/christmedical-sdk/issues"
+  },
+  "homepage": "https://github.com/christmedical/christmedical-sdk#readme",
+  "dependencies": {
+    "pouchdb": "^6.3.4",
+    "vuex": "^2.4.0"
+  }
+}
